@@ -1,0 +1,44 @@
+.xkmain{
+    border: 10px solid royalblue;
+    width: 200px;
+    margin: 0 auto;
+    
+    
+}
+
+.xkresult{
+    background-color: skyblue;
+    color: black;
+    width: 190px;
+    height: 40px;
+    margin-top: 10px;
+
+}
+
+.xkclearBtn{
+    
+    background-color: red;
+    width: 45px;
+    height: 45px;
+    margin: 1px;
+    margin-top: 15px;
+
+}
+
+.xkbtn{
+    background-color: blueviolet;
+    width: 45px;
+    height: 45px;
+    margin: 1px;
+    margin-top: 15px;
+    color: white;
+}
+
+.xkbtn1{
+    background-color: red;
+    width: 45px;
+    height: 45px;
+    margin: 1px;
+    margin-top: 15px;
+    color: white;
+}
